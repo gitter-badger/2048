@@ -1,4 +1,6 @@
 # 2048
+
+[![Join the chat at https://gitter.im/ajamil76/2048](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ajamil76/2048?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
 
 Made just for fun. [Play it here!](http://gabrielecirulli.github.io/2048/)
